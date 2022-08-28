@@ -10,7 +10,7 @@
     "artistBeforeTitle": false, 
     "audioQuality": "Master", 
     "checkExist": false, 
-    "downloadPath": "./bot/DOWNLOADS", 
+    "downloadPath": "https://downloads.peepsmirror.workers.dev/0:/", 
     "includeEP": true, 
     "language": 0, 
     "lyricFile": true, 
